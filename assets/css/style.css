@@ -1,1 +1,11 @@
 /* hoja de estilos*/
+.logo-size{
+    height: 40px;
+    width: 40px;
+}
+
+.font-square{
+    font-family: 'Square Peg', cursive;
+    font-size: 2rem;
+    color: black;
+}
