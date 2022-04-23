@@ -1,4 +1,7 @@
 /* hoja de estilos*/
+body{
+    background-color: black;
+}
 .logo-size{
     height: 40px;
     width: 40px;
@@ -7,10 +10,25 @@
 .font-square{
     font-family: 'Square Peg', cursive;
     font-size: 2rem;
-    color: black;
+    color: white;
 }
-.encima{
+.carousel-indicators [data-bs-target] {
     position: relative;
-    z-index: 1029;
-    color:aquamarine;
+    float: none;
+    display: flex;
+    width: 15px;
+    height: 15px;
+    border: none;
+    border-radius: 50%;
+    background-color: #fff;
+  }
+p{
+    color: white;
+}
+.bg-color{
+    background-color: #0dcaf0;
+}
+.icon{
+    color: white;
+    font-size: 2rem;
 }
