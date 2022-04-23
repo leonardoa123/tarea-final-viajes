@@ -9,3 +9,8 @@
     font-size: 2rem;
     color: black;
 }
+.encima{
+    position: relative;
+    z-index: 1029;
+    color:aquamarine;
+}
