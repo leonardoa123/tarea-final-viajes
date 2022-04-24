@@ -24,6 +24,7 @@ body{
   }
 p{
     color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .bg-color{
     background-color: #0dcaf0;
