@@ -33,3 +33,7 @@ p{
     color: white;
     font-size: 2rem;
 }
+.centrar{
+    margin-left: 200px;
+    margin-right: 200px;
+}
